@@ -82,8 +82,3 @@ class ScriptArgv0Info(object):
         return self.baseNoExt + '.' + newExt
         
     
-    
-# print( "press any key..." )
-# print( targetFile )
-# input()
-
